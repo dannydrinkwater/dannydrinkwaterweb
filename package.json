@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "next dev -p 666",
     "build": "next build",
-    "start": "next start"
+    "start": "next start -p 666",
+    "export": "next export"
   },
   "dependencies": {
     "next": "10.1.3",
