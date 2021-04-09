@@ -14,7 +14,6 @@ module.exports = withPlugins([
   }],
   {
     basePath: '/dannydrinkwaterweb',
-    assetPrefix: '/dannydrinkwaterweb/',
-    env,
+    assetPrefix: '/dannydrinkwaterweb/'
   },
 ]);
